@@ -33,10 +33,10 @@
     "malicious file. The check that actually closes it is Authenticode -- verifying",
     "the installer is signed by us -- which needs a code-signing certificate first."
   ],
-  "appVersion": "0.1.0",
-  "appRevision": "7a9b185",
+  "appVersion": "1.0.0",
+  "appRevision": "91f425c",
   "appDownloadUrl": "https://github.com/dfzi/foresight-releases/releases/download/msi-latest/Foresight.msi",
-  "appSha256": "9f0366e605a467c98491b65c493adb71490ede215cec8209ceddbc5cb26064f1",
+  "appSha256": "3c580bccaa4118911c2ab7e344bda13e46e2e04debd15609c0b6dee49c2d7765",
   "appNotes": "",
   "tuneRevision": 0,
   "tuneUrl": "",
