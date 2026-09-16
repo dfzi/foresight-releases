@@ -34,9 +34,9 @@
     "the installer is signed by us -- which needs a code-signing certificate first."
   ],
   "appVersion": "1.0.0",
-  "appRevision": "48652eb",
+  "appRevision": "2cdf07a",
   "appDownloadUrl": "https://github.com/dfzi/foresight-releases/releases/download/msi-latest/Foresight.msi",
-  "appSha256": "d401e9ad3f68e1cfda6265ba1525c2987a91f9373af974042ba6f96274459096",
+  "appSha256": "a059680afb91d9209f616ced61a3a3738c10490be6ca45595d0cdc793d38b939",
   "appNotes": "",
   "tuneRevision": 0,
   "tuneUrl": "",
